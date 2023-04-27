@@ -1,0 +1,2 @@
+# AppMovile-ReconocimientoTexto-java
+ 
